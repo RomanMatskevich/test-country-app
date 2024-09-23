@@ -11,7 +11,7 @@
  -npm start
 
 client env:
-NEXT_PUBLIC_BACKEND_URL="http://localhost:3000"
+NEXT_PUBLIC_BACKEND_URL="http://localhost:5050"
 
-NEXT PORT: 3001
-NEST PORT: 3000
+NEXT PORT: 3000
+NEST PORT: 5050
